@@ -10,6 +10,12 @@ h1 {
 p {
     color:maroon;
 } 
-em {
-     font-family: serif;
+p.greentea {
+      color: green;
+}
+p.raspberry {
+      color: blue
+}
+p.blueberry {
+      color: purple
 }
